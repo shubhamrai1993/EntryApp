@@ -1,0 +1,1 @@
+- Place your google-services.json credentials for firebase notifications in app/
